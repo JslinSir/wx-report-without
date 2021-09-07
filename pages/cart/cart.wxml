@@ -1,0 +1,1 @@
+<button  bind:tap="handleAddCartClick" style="margin-top:30rpx;">加入购物车</button>

@@ -1,0 +1,3 @@
+
+
+<button  bind:tap="handleTesetReport" data-type="我是组件类型" style="margin-top:30rpx;">组件类型上报</button>

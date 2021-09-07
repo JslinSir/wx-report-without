@@ -1,0 +1,16 @@
+<!--index.wxml-->
+ 
+<button  bind:tap="handlePageReport">点击上报</button>
+
+
+
+<button  bind:tap="handleCart" style="margin-top:30rpx;">跳转到购物车</button>
+
+
+
+<teset />
+
+
+
+
+<button  bind:tap="handleWxReport" style="margin-top:30rpx;">全局挂载上报</button>
